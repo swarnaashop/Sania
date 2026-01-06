@@ -8,7 +8,7 @@ import java.util.List;
      String name;
      double salary;
      
-     public Person(int id, String name, double salary) {
+     public Person(int id, String name,double salary) {
          this.id=id;
          this.name=name;
          this.salary=salary;
